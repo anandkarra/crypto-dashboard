@@ -1,0 +1,692 @@
+[0;36mFetching & unzipping BTCUSDT-1d-2021-01 ...[0m
+Archive:  BTCUSDT-1d-2021-01.zip
+  inflating: BTCUSDT-1d-2021-01.csv  
+
+renamed 'BTCUSDT-1d-2021-01.csv' -> '/home/ak/crypto-dashboard/data/2021/BTCUSDT-1d-2021-01.csv'
+
+removed 'BTCUSDT-1d-2021-01.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2021-02 ...[0m
+Archive:  BTCUSDT-1d-2021-02.zip
+  inflating: BTCUSDT-1d-2021-02.csv  
+
+renamed 'BTCUSDT-1d-2021-02.csv' -> '/home/ak/crypto-dashboard/data/2021/BTCUSDT-1d-2021-02.csv'
+
+removed 'BTCUSDT-1d-2021-02.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2021-03 ...[0m
+Archive:  BTCUSDT-1d-2021-03.zip
+  inflating: BTCUSDT-1d-2021-03.csv  
+
+renamed 'BTCUSDT-1d-2021-03.csv' -> '/home/ak/crypto-dashboard/data/2021/BTCUSDT-1d-2021-03.csv'
+
+removed 'BTCUSDT-1d-2021-03.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2021-04 ...[0m
+Archive:  BTCUSDT-1d-2021-04.zip
+  inflating: BTCUSDT-1d-2021-04.csv  
+
+renamed 'BTCUSDT-1d-2021-04.csv' -> '/home/ak/crypto-dashboard/data/2021/BTCUSDT-1d-2021-04.csv'
+
+removed 'BTCUSDT-1d-2021-04.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2021-05 ...[0m
+Archive:  BTCUSDT-1d-2021-05.zip
+  inflating: BTCUSDT-1d-2021-05.csv  
+
+renamed 'BTCUSDT-1d-2021-05.csv' -> '/home/ak/crypto-dashboard/data/2021/BTCUSDT-1d-2021-05.csv'
+
+removed 'BTCUSDT-1d-2021-05.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2021-06 ...[0m
+Archive:  BTCUSDT-1d-2021-06.zip
+  inflating: BTCUSDT-1d-2021-06.csv  
+
+renamed 'BTCUSDT-1d-2021-06.csv' -> '/home/ak/crypto-dashboard/data/2021/BTCUSDT-1d-2021-06.csv'
+
+removed 'BTCUSDT-1d-2021-06.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2021-07 ...[0m
+Archive:  BTCUSDT-1d-2021-07.zip
+  inflating: BTCUSDT-1d-2021-07.csv  
+
+renamed 'BTCUSDT-1d-2021-07.csv' -> '/home/ak/crypto-dashboard/data/2021/BTCUSDT-1d-2021-07.csv'
+
+removed 'BTCUSDT-1d-2021-07.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2021-08 ...[0m
+Archive:  BTCUSDT-1d-2021-08.zip
+  inflating: BTCUSDT-1d-2021-08.csv  
+
+renamed 'BTCUSDT-1d-2021-08.csv' -> '/home/ak/crypto-dashboard/data/2021/BTCUSDT-1d-2021-08.csv'
+
+removed 'BTCUSDT-1d-2021-08.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2021-09 ...[0m
+Archive:  BTCUSDT-1d-2021-09.zip
+  inflating: BTCUSDT-1d-2021-09.csv  
+
+renamed 'BTCUSDT-1d-2021-09.csv' -> '/home/ak/crypto-dashboard/data/2021/BTCUSDT-1d-2021-09.csv'
+
+removed 'BTCUSDT-1d-2021-09.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2021-10 ...[0m
+Archive:  BTCUSDT-1d-2021-10.zip
+  inflating: BTCUSDT-1d-2021-10.csv  
+
+renamed 'BTCUSDT-1d-2021-10.csv' -> '/home/ak/crypto-dashboard/data/2021/BTCUSDT-1d-2021-10.csv'
+
+removed 'BTCUSDT-1d-2021-10.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2021-11 ...[0m
+Archive:  BTCUSDT-1d-2021-11.zip
+  inflating: BTCUSDT-1d-2021-11.csv  
+
+renamed 'BTCUSDT-1d-2021-11.csv' -> '/home/ak/crypto-dashboard/data/2021/BTCUSDT-1d-2021-11.csv'
+
+removed 'BTCUSDT-1d-2021-11.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2021-12 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2021-12[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2020-01 ...[0m
+Archive:  BTCUSDT-1d-2020-01.zip
+  inflating: BTCUSDT-1d-2020-01.csv  
+
+renamed 'BTCUSDT-1d-2020-01.csv' -> '/home/ak/crypto-dashboard/data/2020/BTCUSDT-1d-2020-01.csv'
+
+removed 'BTCUSDT-1d-2020-01.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2020-02 ...[0m
+Archive:  BTCUSDT-1d-2020-02.zip
+  inflating: BTCUSDT-1d-2020-02.csv  
+
+renamed 'BTCUSDT-1d-2020-02.csv' -> '/home/ak/crypto-dashboard/data/2020/BTCUSDT-1d-2020-02.csv'
+
+removed 'BTCUSDT-1d-2020-02.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2020-03 ...[0m
+Archive:  BTCUSDT-1d-2020-03.zip
+  inflating: BTCUSDT-1d-2020-03.csv  
+
+renamed 'BTCUSDT-1d-2020-03.csv' -> '/home/ak/crypto-dashboard/data/2020/BTCUSDT-1d-2020-03.csv'
+
+removed 'BTCUSDT-1d-2020-03.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2020-04 ...[0m
+Archive:  BTCUSDT-1d-2020-04.zip
+  inflating: BTCUSDT-1d-2020-04.csv  
+
+renamed 'BTCUSDT-1d-2020-04.csv' -> '/home/ak/crypto-dashboard/data/2020/BTCUSDT-1d-2020-04.csv'
+
+removed 'BTCUSDT-1d-2020-04.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2020-05 ...[0m
+Archive:  BTCUSDT-1d-2020-05.zip
+  inflating: BTCUSDT-1d-2020-05.csv  
+
+renamed 'BTCUSDT-1d-2020-05.csv' -> '/home/ak/crypto-dashboard/data/2020/BTCUSDT-1d-2020-05.csv'
+
+removed 'BTCUSDT-1d-2020-05.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2020-06 ...[0m
+Archive:  BTCUSDT-1d-2020-06.zip
+  inflating: BTCUSDT-1d-2020-06.csv  
+
+renamed 'BTCUSDT-1d-2020-06.csv' -> '/home/ak/crypto-dashboard/data/2020/BTCUSDT-1d-2020-06.csv'
+
+removed 'BTCUSDT-1d-2020-06.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2020-07 ...[0m
+Archive:  BTCUSDT-1d-2020-07.zip
+  inflating: BTCUSDT-1d-2020-07.csv  
+
+renamed 'BTCUSDT-1d-2020-07.csv' -> '/home/ak/crypto-dashboard/data/2020/BTCUSDT-1d-2020-07.csv'
+
+removed 'BTCUSDT-1d-2020-07.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2020-08 ...[0m
+Archive:  BTCUSDT-1d-2020-08.zip
+  inflating: BTCUSDT-1d-2020-08.csv  
+
+renamed 'BTCUSDT-1d-2020-08.csv' -> '/home/ak/crypto-dashboard/data/2020/BTCUSDT-1d-2020-08.csv'
+
+removed 'BTCUSDT-1d-2020-08.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2020-09 ...[0m
+Archive:  BTCUSDT-1d-2020-09.zip
+  inflating: BTCUSDT-1d-2020-09.csv  
+
+renamed 'BTCUSDT-1d-2020-09.csv' -> '/home/ak/crypto-dashboard/data/2020/BTCUSDT-1d-2020-09.csv'
+
+removed 'BTCUSDT-1d-2020-09.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2020-10 ...[0m
+Archive:  BTCUSDT-1d-2020-10.zip
+  inflating: BTCUSDT-1d-2020-10.csv  
+
+renamed 'BTCUSDT-1d-2020-10.csv' -> '/home/ak/crypto-dashboard/data/2020/BTCUSDT-1d-2020-10.csv'
+
+removed 'BTCUSDT-1d-2020-10.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2020-11 ...[0m
+Archive:  BTCUSDT-1d-2020-11.zip
+  inflating: BTCUSDT-1d-2020-11.csv  
+
+renamed 'BTCUSDT-1d-2020-11.csv' -> '/home/ak/crypto-dashboard/data/2020/BTCUSDT-1d-2020-11.csv'
+
+removed 'BTCUSDT-1d-2020-11.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2020-12 ...[0m
+Archive:  BTCUSDT-1d-2020-12.zip
+  inflating: BTCUSDT-1d-2020-12.csv  
+
+renamed 'BTCUSDT-1d-2020-12.csv' -> '/home/ak/crypto-dashboard/data/2020/BTCUSDT-1d-2020-12.csv'
+
+removed 'BTCUSDT-1d-2020-12.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2019-01 ...[0m
+Archive:  BTCUSDT-1d-2019-01.zip
+  inflating: BTCUSDT-1d-2019-01.csv  
+
+renamed 'BTCUSDT-1d-2019-01.csv' -> '/home/ak/crypto-dashboard/data/2019/BTCUSDT-1d-2019-01.csv'
+
+removed 'BTCUSDT-1d-2019-01.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2019-02 ...[0m
+Archive:  BTCUSDT-1d-2019-02.zip
+  inflating: BTCUSDT-1d-2019-02.csv  
+
+renamed 'BTCUSDT-1d-2019-02.csv' -> '/home/ak/crypto-dashboard/data/2019/BTCUSDT-1d-2019-02.csv'
+
+removed 'BTCUSDT-1d-2019-02.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2019-03 ...[0m
+Archive:  BTCUSDT-1d-2019-03.zip
+  inflating: BTCUSDT-1d-2019-03.csv  
+
+renamed 'BTCUSDT-1d-2019-03.csv' -> '/home/ak/crypto-dashboard/data/2019/BTCUSDT-1d-2019-03.csv'
+
+removed 'BTCUSDT-1d-2019-03.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2019-04 ...[0m
+Archive:  BTCUSDT-1d-2019-04.zip
+  inflating: BTCUSDT-1d-2019-04.csv  
+
+renamed 'BTCUSDT-1d-2019-04.csv' -> '/home/ak/crypto-dashboard/data/2019/BTCUSDT-1d-2019-04.csv'
+
+removed 'BTCUSDT-1d-2019-04.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2019-05 ...[0m
+Archive:  BTCUSDT-1d-2019-05.zip
+  inflating: BTCUSDT-1d-2019-05.csv  
+
+renamed 'BTCUSDT-1d-2019-05.csv' -> '/home/ak/crypto-dashboard/data/2019/BTCUSDT-1d-2019-05.csv'
+
+removed 'BTCUSDT-1d-2019-05.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2019-06 ...[0m
+Archive:  BTCUSDT-1d-2019-06.zip
+  inflating: BTCUSDT-1d-2019-06.csv  
+
+renamed 'BTCUSDT-1d-2019-06.csv' -> '/home/ak/crypto-dashboard/data/2019/BTCUSDT-1d-2019-06.csv'
+
+removed 'BTCUSDT-1d-2019-06.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2019-07 ...[0m
+Archive:  BTCUSDT-1d-2019-07.zip
+  inflating: BTCUSDT-1d-2019-07.csv  
+
+renamed 'BTCUSDT-1d-2019-07.csv' -> '/home/ak/crypto-dashboard/data/2019/BTCUSDT-1d-2019-07.csv'
+
+removed 'BTCUSDT-1d-2019-07.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2019-08 ...[0m
+Archive:  BTCUSDT-1d-2019-08.zip
+  inflating: BTCUSDT-1d-2019-08.csv  
+
+renamed 'BTCUSDT-1d-2019-08.csv' -> '/home/ak/crypto-dashboard/data/2019/BTCUSDT-1d-2019-08.csv'
+
+removed 'BTCUSDT-1d-2019-08.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2019-09 ...[0m
+Archive:  BTCUSDT-1d-2019-09.zip
+  inflating: BTCUSDT-1d-2019-09.csv  
+
+renamed 'BTCUSDT-1d-2019-09.csv' -> '/home/ak/crypto-dashboard/data/2019/BTCUSDT-1d-2019-09.csv'
+
+removed 'BTCUSDT-1d-2019-09.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2019-10 ...[0m
+Archive:  BTCUSDT-1d-2019-10.zip
+  inflating: BTCUSDT-1d-2019-10.csv  
+
+renamed 'BTCUSDT-1d-2019-10.csv' -> '/home/ak/crypto-dashboard/data/2019/BTCUSDT-1d-2019-10.csv'
+
+removed 'BTCUSDT-1d-2019-10.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2019-11 ...[0m
+Archive:  BTCUSDT-1d-2019-11.zip
+  inflating: BTCUSDT-1d-2019-11.csv  
+
+renamed 'BTCUSDT-1d-2019-11.csv' -> '/home/ak/crypto-dashboard/data/2019/BTCUSDT-1d-2019-11.csv'
+
+removed 'BTCUSDT-1d-2019-11.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2019-12 ...[0m
+Archive:  BTCUSDT-1d-2019-12.zip
+  inflating: BTCUSDT-1d-2019-12.csv  
+
+renamed 'BTCUSDT-1d-2019-12.csv' -> '/home/ak/crypto-dashboard/data/2019/BTCUSDT-1d-2019-12.csv'
+
+removed 'BTCUSDT-1d-2019-12.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2018-01 ...[0m
+Archive:  BTCUSDT-1d-2018-01.zip
+  inflating: BTCUSDT-1d-2018-01.csv  
+
+renamed 'BTCUSDT-1d-2018-01.csv' -> '/home/ak/crypto-dashboard/data/2018/BTCUSDT-1d-2018-01.csv'
+
+removed 'BTCUSDT-1d-2018-01.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2018-02 ...[0m
+Archive:  BTCUSDT-1d-2018-02.zip
+  inflating: BTCUSDT-1d-2018-02.csv  
+
+renamed 'BTCUSDT-1d-2018-02.csv' -> '/home/ak/crypto-dashboard/data/2018/BTCUSDT-1d-2018-02.csv'
+
+removed 'BTCUSDT-1d-2018-02.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2018-03 ...[0m
+Archive:  BTCUSDT-1d-2018-03.zip
+  inflating: BTCUSDT-1d-2018-03.csv  
+
+renamed 'BTCUSDT-1d-2018-03.csv' -> '/home/ak/crypto-dashboard/data/2018/BTCUSDT-1d-2018-03.csv'
+
+removed 'BTCUSDT-1d-2018-03.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2018-04 ...[0m
+Archive:  BTCUSDT-1d-2018-04.zip
+  inflating: BTCUSDT-1d-2018-04.csv  
+
+renamed 'BTCUSDT-1d-2018-04.csv' -> '/home/ak/crypto-dashboard/data/2018/BTCUSDT-1d-2018-04.csv'
+
+removed 'BTCUSDT-1d-2018-04.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2018-05 ...[0m
+Archive:  BTCUSDT-1d-2018-05.zip
+  inflating: BTCUSDT-1d-2018-05.csv  
+
+renamed 'BTCUSDT-1d-2018-05.csv' -> '/home/ak/crypto-dashboard/data/2018/BTCUSDT-1d-2018-05.csv'
+
+removed 'BTCUSDT-1d-2018-05.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2018-06 ...[0m
+Archive:  BTCUSDT-1d-2018-06.zip
+  inflating: BTCUSDT-1d-2018-06.csv  
+
+renamed 'BTCUSDT-1d-2018-06.csv' -> '/home/ak/crypto-dashboard/data/2018/BTCUSDT-1d-2018-06.csv'
+
+removed 'BTCUSDT-1d-2018-06.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2018-07 ...[0m
+Archive:  BTCUSDT-1d-2018-07.zip
+  inflating: BTCUSDT-1d-2018-07.csv  
+
+renamed 'BTCUSDT-1d-2018-07.csv' -> '/home/ak/crypto-dashboard/data/2018/BTCUSDT-1d-2018-07.csv'
+
+removed 'BTCUSDT-1d-2018-07.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2018-08 ...[0m
+Archive:  BTCUSDT-1d-2018-08.zip
+  inflating: BTCUSDT-1d-2018-08.csv  
+
+renamed 'BTCUSDT-1d-2018-08.csv' -> '/home/ak/crypto-dashboard/data/2018/BTCUSDT-1d-2018-08.csv'
+
+removed 'BTCUSDT-1d-2018-08.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2018-09 ...[0m
+Archive:  BTCUSDT-1d-2018-09.zip
+  inflating: BTCUSDT-1d-2018-09.csv  
+
+renamed 'BTCUSDT-1d-2018-09.csv' -> '/home/ak/crypto-dashboard/data/2018/BTCUSDT-1d-2018-09.csv'
+
+removed 'BTCUSDT-1d-2018-09.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2018-10 ...[0m
+Archive:  BTCUSDT-1d-2018-10.zip
+  inflating: BTCUSDT-1d-2018-10.csv  
+
+renamed 'BTCUSDT-1d-2018-10.csv' -> '/home/ak/crypto-dashboard/data/2018/BTCUSDT-1d-2018-10.csv'
+
+removed 'BTCUSDT-1d-2018-10.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2018-11 ...[0m
+Archive:  BTCUSDT-1d-2018-11.zip
+  inflating: BTCUSDT-1d-2018-11.csv  
+
+renamed 'BTCUSDT-1d-2018-11.csv' -> '/home/ak/crypto-dashboard/data/2018/BTCUSDT-1d-2018-11.csv'
+
+removed 'BTCUSDT-1d-2018-11.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2018-12 ...[0m
+Archive:  BTCUSDT-1d-2018-12.zip
+  inflating: BTCUSDT-1d-2018-12.csv  
+
+renamed 'BTCUSDT-1d-2018-12.csv' -> '/home/ak/crypto-dashboard/data/2018/BTCUSDT-1d-2018-12.csv'
+
+removed 'BTCUSDT-1d-2018-12.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2017-01 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2017-01[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2017-02 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2017-02[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2017-03 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2017-03[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2017-04 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2017-04[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2017-05 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2017-05[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2017-06 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2017-06[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2017-07 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2017-07[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2017-08 ...[0m
+Archive:  BTCUSDT-1d-2017-08.zip
+  inflating: BTCUSDT-1d-2017-08.csv  
+
+renamed 'BTCUSDT-1d-2017-08.csv' -> '/home/ak/crypto-dashboard/data/2017/BTCUSDT-1d-2017-08.csv'
+
+removed 'BTCUSDT-1d-2017-08.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2017-09 ...[0m
+Archive:  BTCUSDT-1d-2017-09.zip
+  inflating: BTCUSDT-1d-2017-09.csv  
+
+renamed 'BTCUSDT-1d-2017-09.csv' -> '/home/ak/crypto-dashboard/data/2017/BTCUSDT-1d-2017-09.csv'
+
+removed 'BTCUSDT-1d-2017-09.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2017-10 ...[0m
+Archive:  BTCUSDT-1d-2017-10.zip
+  inflating: BTCUSDT-1d-2017-10.csv  
+
+renamed 'BTCUSDT-1d-2017-10.csv' -> '/home/ak/crypto-dashboard/data/2017/BTCUSDT-1d-2017-10.csv'
+
+removed 'BTCUSDT-1d-2017-10.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2017-11 ...[0m
+Archive:  BTCUSDT-1d-2017-11.zip
+  inflating: BTCUSDT-1d-2017-11.csv  
+
+renamed 'BTCUSDT-1d-2017-11.csv' -> '/home/ak/crypto-dashboard/data/2017/BTCUSDT-1d-2017-11.csv'
+
+removed 'BTCUSDT-1d-2017-11.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2017-12 ...[0m
+Archive:  BTCUSDT-1d-2017-12.zip
+  inflating: BTCUSDT-1d-2017-12.csv  
+
+renamed 'BTCUSDT-1d-2017-12.csv' -> '/home/ak/crypto-dashboard/data/2017/BTCUSDT-1d-2017-12.csv'
+
+removed 'BTCUSDT-1d-2017-12.zip'
+
+[0;36mFetching & unzipping BTCUSDT-1d-2016-01 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2016-01[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2016-02 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2016-02[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2016-03 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2016-03[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2016-04 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2016-04[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2016-05 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2016-05[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2016-06 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2016-06[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2016-07 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2016-07[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2016-08 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2016-08[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2016-09 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2016-09[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2016-10 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2016-10[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2016-11 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2016-11[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2016-12 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2016-12[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2015-01 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2015-01[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2015-02 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2015-02[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2015-03 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2015-03[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2015-04 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2015-04[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2015-05 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2015-05[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2015-06 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2015-06[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2015-07 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2015-07[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2015-08 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2015-08[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2015-09 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2015-09[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2015-10 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2015-10[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2015-11 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2015-11[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2015-12 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2015-12[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2014-01 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2014-01[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2014-02 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2014-02[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2014-03 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2014-03[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2014-04 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2014-04[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2014-05 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2014-05[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2014-06 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2014-06[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2014-07 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2014-07[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2014-08 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2014-08[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2014-09 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2014-09[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2014-10 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2014-10[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2014-11 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2014-11[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2014-12 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2014-12[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2013-01 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2013-01[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2013-02 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2013-02[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2013-03 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2013-03[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2013-04 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2013-04[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2013-05 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2013-05[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2013-06 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2013-06[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2013-07 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2013-07[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2013-08 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2013-08[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2013-09 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2013-09[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2013-10 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2013-10[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2013-11 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2013-11[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2013-12 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2013-12[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2012-01 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2012-01[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2012-02 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2012-02[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2012-03 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2012-03[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2012-04 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2012-04[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2012-05 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2012-05[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2012-06 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2012-06[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2012-07 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2012-07[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2012-08 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2012-08[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2012-09 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2012-09[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2012-10 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2012-10[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2012-11 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2012-11[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2012-12 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2012-12[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2011-01 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2011-01[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2011-02 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2011-02[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2011-03 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2011-03[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2011-04 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2011-04[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2011-05 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2011-05[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2011-06 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2011-06[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2011-07 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2011-07[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2011-08 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2011-08[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2011-09 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2011-09[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2011-10 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2011-10[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2011-11 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2011-11[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2011-12 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2011-12[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2010-01 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2010-01[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2010-02 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2010-02[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2010-03 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2010-03[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2010-04 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2010-04[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2010-05 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2010-05[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2010-06 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2010-06[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2010-07 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2010-07[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2010-08 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2010-08[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2010-09 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2010-09[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2010-10 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2010-10[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2010-11 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2010-11[0m
+
+[0;36mFetching & unzipping BTCUSDT-1d-2010-12 ...[0m
+>>> WARN: Failed to fetch BTCUSDT-1d-2010-12[0m
+
